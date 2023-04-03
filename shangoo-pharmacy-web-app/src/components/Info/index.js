@@ -84,7 +84,7 @@ const Info = () => {
                 <h3>Prescription List</h3>
                 <ul>
                     {/* {data.findPrescription.map((prescription) => ( */}
-                    <li key={prescription.id}>{prescription.name}</li>
+                    {/* <li key={prescription.id}>{prescription.name}</li> */}
                     {/* ))} */}
                 </ul>
             </div>
